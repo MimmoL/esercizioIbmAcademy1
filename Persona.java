@@ -1,7 +1,7 @@
 package gitTestEsercizio1;
 
 public class Persona {
-	
+
 	private String nome;
 	private String cognome;
 	public String getNome() {
@@ -21,7 +21,7 @@ public class Persona {
 		this.nome = nome;
 		this.cognome = cognome;
 	}
-	
-	
+
+	//una bella modifica
 
 }
